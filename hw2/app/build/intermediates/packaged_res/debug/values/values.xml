@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TvApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Theme.TvApp" parent="@style/Theme.Leanback"/>
+</resources>

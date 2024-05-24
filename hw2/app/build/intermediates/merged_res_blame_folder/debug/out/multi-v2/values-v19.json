@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\2023-2024 hk2\\mobile application development\\lab\\Lab-CS4153.N22.CTTT-Main\\Lab-CS4153.N22.CTTT-Main\\Lab5\\Exercise1_Alarm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\335042bcf7fff71d504f725bcdc614ef\\transformed\\leanback-1.0.0\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "659"
+                    }
+                }
+            ]
+        }
+    ]
+}

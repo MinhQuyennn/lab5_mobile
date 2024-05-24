@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\2023-2024 hk2\\mobile application development\\lab\\Lab-CS4153.N22.CTTT-Main\\Lab-CS4153.N22.CTTT-Main\\Lab5\\Exercise1_Alarm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\335042bcf7fff71d504f725bcdc614ef\\transformed\\leanback-1.0.0\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,53",
+                        "endOffsets": "102,156"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\84d164a6cd98f245361f5b4b77cf2a53\\transformed\\appcompat-1.5.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "161,236,323,593",
+                        "endLines": "4,5,10,15",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "231,318,588,870"
+                    }
+                }
+            ]
+        }
+    ]
+}

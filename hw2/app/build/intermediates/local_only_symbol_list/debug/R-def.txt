@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+drawable banner_gradient
+id description
+id gradient_horizontal
+id guideline_center
+id guideline_start
+id guideline_top
+id img_banner
+id list_fragment
+id poster_image
+id subtitle
+id title
+layout activity_main
+layout fragment_list
+layout item_view
+mipmap ic_launcher
+string app_name
+string hello_blank_fragment
+style Theme.TvApp
